@@ -1,0 +1,50 @@
+<html>
+<head>
+<title>Employee Interests Survey</title>
+</head>
+<body>
+
+<form action="http://googleforms.co.in">
+
+<div align="&#x2192;">
+<img src="Sree_Vidyanikethan_Logo.png" alt="vidyaniketan">
+<h1> SREE VIDYANIKETA ENGINEERING COLLEGE <br>. </br>student Interests Survey form</h1>
+Enter your name:
+
+<input type="text" name="UserName" size=35 maxlength=35 value="">
+
+</br></br>
+Enter your department code;
+<input type="number" name="department" size=35 maxlength=35 value=""> </br> </br>
+hobbies;
+
+<textarea name="Comments" cols=30 rows=4></textarea> </br> </br>
+Do you exercise at home?
+
+<input type="radio" name="exe" value=1>Yes
+<input type="radio" name="exe" value=2>No
+</p>
+How do you like to read about your favorite topics?
+<p>
+<input type="checkbox" name="Books">Books
+<input type="checkbox" name="Web">Online resources
+<input type="checkbox" name="Phone">Phone apps
+<input type="checkbox" name="Magazines">Magazines
+</p>
+What classes do you like?
+
+<select name="moviepref" ><option>
+<option value=1 selected = "true">mathematics
+<option value=2 >physics
+<option value=3 >languages
+<option value=4 >chemistry
+<option value=5 >all
+</select>
+</br></br>
+
+<input type=submit value="Submit form">
+
+<center> Click on <a href="https://www.svec.education"> this link </a> to view about   
+</div>
+</form>
+</body>
